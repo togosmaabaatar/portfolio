@@ -4,7 +4,7 @@ Live: https://portfolio-xi-cyan-93.vercel.app
 Repository: https://github.com/togosmaabaatar/portfolio  
 Vercel project: https://vercel.com/togosmaabaatar/portfolio
 
-An English-first, bilingual portfolio for independent business website development, web applications, AI tools and digital presence. Custom charcoal / lavender design, responsive project previews, case studies, services, FAQs and email inquiries.
+An English-first, bilingual portfolio for independent business website development, web applications, AI tools and digital presence. Compact ivory / lavender design with visual project previews, short case studies, a personal photo gallery and direct email contact.
 
 ## Run and build
 
@@ -29,7 +29,7 @@ Project scope is verified from local source and project READMEs, with GitHub met
 
 Togosmaa Baatar, Calgary, Canada, and `togosmaabaatar@gmail.com` were corroborated by the user's existing local professional materials. The portfolio publishes the city and contact email. It does not publish residential addresses or unrelated personal documents.
 
-Contact links open the visitor's email client. The project form can create an email draft or download a local text brief; it does not send messages automatically. The visitor must review and send the draft. No contact information is stored. Only explicit language preference is saved to localStorage; fresh visitors see English.
+Contact links open the visitor's email client. No contact information is stored. Only explicit language preference is saved to localStorage; fresh visitors see English.
 
 ## Design research
 
@@ -47,6 +47,10 @@ Original supplied photo and the previous generated portrait are preserved. The a
 
 Final prompt: “Use case: identity-preserve. Create an improved portrait of the same woman for her premium web developer business portfolio. Preserve unmistakable identity, face shape, ethnicity, age, signature black round eyeglasses, eye shape, and natural hair color. Make her look warmer, prettier and approachable with a subtle natural smile, flattering soft warm window lighting, tasteful minimal natural makeup, tidy soft flowing hair, realistic skin texture and subtle professional retouching. Elegant cream blouse with a warm neutral beige tailored blazer, delicate small pearl earrings. Remove sun sticker and original home background; replace with softly blurred warm ivory editorial studio backdrop. Medium portrait from chest upward with room above head and both shoulders visible, no cropped top of hair. Modern confident friendly professional, natural photographic beauty, no plastic skin, no exaggerated facial changes, no text or watermark.”
 
-## Validation / October 10, 2026 refresh
+## Personal photos and logo
 
-Static build, JavaScript syntax, unique HTML IDs, internal anchors and production asset checks passed. Chrome checks confirmed English-first rendering, Mongolian switching, no horizontal overflow at 1440px, 390px and 320px, five-project inventory, three-website / two-app filtering, translated case-study modal, Escape dismissal, private/local source-link hiding, mobile menu closure, service preselection, local brief download and FAQ expansion. Email links target the verified contact email; no test email was sent. Browser visuals were inspected on desktop and mobile. This is not a physical-device or cross-browser certification.
+Three user-supplied photographs are included unchanged in the About gallery. Selecting a photograph opens the full image. The original TB monogram is available as `assets/logo.svg`, transparent `assets/logo-mark.svg` and `assets/logo-wordmark.svg`.
+
+## Validation / October 10, 2026 compact refresh
+
+Build and JavaScript syntax checks passed. Desktop and 390px / 320px browser checks confirmed English and Mongolian rendering without horizontal overflow. Five projects remain accessible; private and local project links are hidden where appropriate. Project and photo dialogs, translated content and Escape dismissal were checked. Desktop and mobile visuals were inspected. Visible text decreased from 1,087 to 336 words. This is not a physical-device or cross-browser certification.
