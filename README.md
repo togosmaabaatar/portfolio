@@ -24,3 +24,11 @@ The contact form downloads a local text brief; it does not send messages or reta
 ## Editing
 
 Update both `data-mn` and `data-en` attributes in `index.html`; edit case-study copy in `script.js`. `projects.json` is a reference inventory, not loaded at runtime. Only built website assets are deployed; original photograph and developer notes are excluded from `dist/`.
+
+## Published portfolio
+
+- Live: https://portfolio-xi-cyan-93.vercel.app
+- Repository: https://github.com/togosmaabaatar/portfolio
+- Vercel project: https://vercel.com/togosmaabaatar/portfolio
+
+Verification on October 10, 2026: build and JavaScript syntax checks passed. Chrome browser checks verified language switching, two-project website filtering, case-study modal and Escape dismissal, mobile menu open/close, local brief generation, loaded images and no horizontal overflow at 320px and 390px. Desktop and mobile visuals inspected. Vercel reported successful deployment and the production page loaded with all four projects. Direct email delivery is not configured.
