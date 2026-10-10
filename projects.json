@@ -1,0 +1,50 @@
+[
+  {
+    "id": "camp",
+    "category": "web",
+    "name": "Цагаан Гарид",
+    "englishName": "Tsagaan Garid",
+    "title": "Аяллыг эхлүүлэх дижитал хаалга.",
+    "englishTitle": "A digital welcome to the countryside.",
+    "description": "Аялал жуулчлалын 6 хуудастай, Монгол / Англи сайт. Байрлах сонголт, аяллын мэдээлэл, хүсэлтийн маягтыг нэгтгэсэн.",
+    "englishDescription": "A six-page bilingual travel website bringing stays, experiences and trip inquiries together.",
+    "stack": "HTML · CSS · JavaScript · EmailJS",
+    "url": "https://tsagaan-garid.vercel.app"
+  },
+  {
+    "id": "ledger",
+    "category": "app",
+    "name": "MNG Expense Ledger",
+    "englishName": "MNG Expense Ledger",
+    "title": "Баримтаас тайлан хүртэл.",
+    "englishTitle": "From receipt to report.",
+    "description": "AI баримт уншуулах, мэдээлэл хянах, зардал ангилах, тайлан болон Excel / CSV экспорттой хувийн систем.",
+    "englishDescription": "A private app for AI receipt extraction, review, expense categories, reports and Excel / CSV exports.",
+    "stack": "Next.js · Supabase · Gemini",
+    "url": "https://mng-construction-expenses.vercel.app"
+  },
+  {
+    "id": "construction",
+    "category": "web",
+    "name": "MNG Construction",
+    "englishName": "MNG Construction",
+    "title": "Бизнесийн анхны сэтгэгдэл.",
+    "englishTitle": "A stronger first impression.",
+    "description": "Барилгын үйлчилгээ, төслүүд болон хүсэлтийн хэсгийг харуулсан responsive танилцуулгын жишээ сайт.",
+    "englishDescription": "A responsive concept website presenting construction services, projects and inquiry options.",
+    "stack": "HTML · CSS · JavaScript",
+    "url": "https://hicheel-1.vercel.app"
+  },
+  {
+    "id": "joloo",
+    "category": "app",
+    "name": "Canada Joloo",
+    "englishName": "Canada Joloo",
+    "title": "Мэдлэгийг илүү хүртээмжтэй.",
+    "englishTitle": "Making learning more accessible.",
+    "description": "Alberta Class 7 шалгалтад бэлтгэх Монгол хичээл, 54 дадлагын асуулт, хоёр хэлний нэр томьёо, ахицын бүртгэл.",
+    "englishDescription": "Mongolian Alberta Class 7 lessons, 54 practice questions, a bilingual glossary and learning progress.",
+    "stack": "JavaScript · LocalStorage · HTML / CSS",
+    "url": "https://canada-joloo.vercel.app"
+  }
+]
