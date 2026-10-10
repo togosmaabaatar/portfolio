@@ -2,49 +2,196 @@
   {
     "id": "camp",
     "category": "web",
-    "name": "Цагаан Гарид",
-    "englishName": "Tsagaan Garid",
-    "title": "Аяллыг эхлүүлэх дижитал хаалга.",
-    "englishTitle": "A digital welcome to the countryside.",
-    "description": "Аялал жуулчлалын 6 хуудастай, Монгол / Англи сайт. Байрлах сонголт, аяллын мэдээлэл, хүсэлтийн маягтыг нэгтгэсэн.",
-    "englishDescription": "A six-page bilingual travel website bringing stays, experiences and trip inquiries together.",
-    "stack": "HTML · CSS · JavaScript · EmailJS",
-    "url": "https://tsagaan-garid.vercel.app"
+    "name": "Tsagaan Garid",
+    "mnName": "Цагаан Гарид",
+    "kind": "Travel & hospitality",
+    "mnKind": "Аялал жуулчлал",
+    "title": "A thoughtful welcome. Before the journey begins.",
+    "mnTitle": "Аялал эхлэхээс өмнөх халуун дотно угталт.",
+    "description": "A bilingual countryside travel website that brings stays, experiences and trip inquiries into one clear journey.",
+    "mnDescription": "Байрлах сонголт, аяллын мэдээлэл, хүсэлтийн маягтыг нэгтгэсэн хоёр хэлтэй аялал жуулчлалын сайт.",
+    "stack": [
+      "HTML / CSS",
+      "JavaScript",
+      "EmailJS"
+    ],
+    "status": "Live website",
+    "mnStatus": "Нийтлэгдсэн сайт",
+    "url": "https://tsagaan-garid.vercel.app",
+    "repo": "https://github.com/togosmaabaatar/camp",
+    "problem": "Travellers need a clear picture of where they will stay, what they can experience and how to ask for a personalised trip.",
+    "mnProblem": "Аялагчид байрлах орчин, аяллын боломж болон хүсэлт гаргах замыг ойлгомжтой мэдэх хэрэгтэй.",
+    "solution": "Designed and developed six connected pages with English and Mongolian content, accommodation information, FAQs and a trip inquiry flow.",
+    "mnSolution": "Монгол, Англи агуулга, байрлах сонголт, FAQ, аяллын хүсэлтийн урсгалтай зургаан хуудас бүтээсэн.",
+    "features": [
+      "Six responsive pages",
+      "English / Mongolian language switch",
+      "Accommodation and experience navigation",
+      "EmailJS inquiry integration"
+    ],
+    "mnFeatures": [
+      "Зургаан responsive хуудас",
+      "Монгол / Англи хэл солих",
+      "Байрлах сонголт, аяллын мэдээлэл",
+      "EmailJS хүсэлтийн интеграц"
+    ],
+    "note": "Camp imagery is AI concept artwork. Inquiries do not automatically confirm bookings; email delivery depends on the configured EmailJS service.",
+    "mnNote": "Баазын зургууд AI концепц. Хүсэлт нь захиалга автоматаар баталгаажуулахгүй; имэйл хүргэлт EmailJS тохиргооноос хамаарна."
   },
   {
     "id": "ledger",
     "category": "app",
     "name": "MNG Expense Ledger",
-    "englishName": "MNG Expense Ledger",
-    "title": "Баримтаас тайлан хүртэл.",
-    "englishTitle": "From receipt to report.",
-    "description": "AI баримт уншуулах, мэдээлэл хянах, зардал ангилах, тайлан болон Excel / CSV экспорттой хувийн систем.",
-    "englishDescription": "A private app for AI receipt extraction, review, expense categories, reports and Excel / CSV exports.",
-    "stack": "Next.js · Supabase · Gemini",
-    "url": "https://mng-construction-expenses.vercel.app"
-  },
-  {
-    "id": "construction",
-    "category": "web",
-    "name": "MNG Construction",
-    "englishName": "MNG Construction",
-    "title": "Бизнесийн анхны сэтгэгдэл.",
-    "englishTitle": "A stronger first impression.",
-    "description": "Барилгын үйлчилгээ, төслүүд болон хүсэлтийн хэсгийг харуулсан responsive танилцуулгын жишээ сайт.",
-    "englishDescription": "A responsive concept website presenting construction services, projects and inquiry options.",
-    "stack": "HTML · CSS · JavaScript",
-    "url": "https://hicheel-1.vercel.app"
+    "mnName": "MNG зардлын бүртгэл",
+    "kind": "Business operations / AI",
+    "mnKind": "Бизнесийн систем / AI",
+    "title": "Less paperwork. A clearer business picture.",
+    "mnTitle": "Цаасан ажил багасна. Бүртгэл цэгцэрнэ.",
+    "description": "A private business tool that turns receipts into reviewed expense records, reports and spreadsheet exports.",
+    "mnDescription": "Баримтыг хяналттай зардлын бүртгэл, тайлан, spreadsheet экспорт болгох хувийн систем.",
+    "stack": [
+      "Next.js",
+      "Supabase",
+      "Gemini AI"
+    ],
+    "status": "Private application",
+    "mnStatus": "Хувийн апп",
+    "url": "https://mng-construction-expenses.vercel.app",
+    "repo": null,
+    "problem": "Receipt entry, expense review and reporting can become fragmented across documents and spreadsheets.",
+    "mnProblem": "Баримт оруулах, зардал хянах, тайлагнах ажил олон файл, хүснэгтэд тарж төвөгтэй болдог.",
+    "solution": "Built a single-owner application with AI receipt extraction, a mandatory human review step, authenticated access and private document storage.",
+    "mnSolution": "AI баримт боловсруулалт, хүний заавал хийх хяналт, нэвтрэлт болон хувийн хадгалалттай нэг эзэмшигчийн апп бүтээсэн.",
+    "features": [
+      "Receipt extraction and review",
+      "Duplicate detection and expense categories",
+      "Monthly and category reporting",
+      "CSV and Excel exports"
+    ],
+    "mnFeatures": [
+      "Баримт уншуулах, хянах",
+      "Давхардал шалгах, зардлын ангилал",
+      "Сар, ангиллын тайлан",
+      "CSV / Excel экспорт"
+    ],
+    "note": "The live link opens the login page. Client financial records, credentials and original receipts are never included in this portfolio. Preview is a UI illustration.",
+    "mnNote": "Холбоос нь нэвтрэх хуудас нээнэ. Санхүүгийн мэдээлэл, нууц үг, эх баримтыг portfolio-д оруулаагүй. Үзүүлэн нь UI дүрслэл."
   },
   {
     "id": "joloo",
     "category": "app",
     "name": "Canada Joloo",
-    "englishName": "Canada Joloo",
-    "title": "Мэдлэгийг илүү хүртээмжтэй.",
-    "englishTitle": "Making learning more accessible.",
-    "description": "Alberta Class 7 шалгалтад бэлтгэх Монгол хичээл, 54 дадлагын асуулт, хоёр хэлний нэр томьёо, ахицын бүртгэл.",
-    "englishDescription": "Mongolian Alberta Class 7 lessons, 54 practice questions, a bilingual glossary and learning progress.",
-    "stack": "JavaScript · LocalStorage · HTML / CSS",
-    "url": "https://canada-joloo.vercel.app"
+    "mnName": "Canada Joloo",
+    "kind": "Education / interactive web",
+    "mnKind": "Сургалт / интерактив веб",
+    "title": "A more accessible way to learn.",
+    "mnTitle": "Суралцахад илүү ойлгомжтой зам.",
+    "description": "An Alberta Class 7 learning app with Mongolian lessons, practice questions and a bilingual glossary.",
+    "mnDescription": "Монгол хичээл, дадлагын асуулт, хоёр хэлний нэр томьёотой Alberta Class 7 сургалтын апп.",
+    "stack": [
+      "JavaScript",
+      "LocalStorage",
+      "Responsive UI"
+    ],
+    "status": "Live application",
+    "mnStatus": "Нийтлэгдсэн апп",
+    "url": "https://canada-joloo.vercel.app",
+    "repo": "https://github.com/togosmaabaatar/Canada-Joloo",
+    "problem": "Mongolian speakers preparing for Alberta’s knowledge test need an approachable study flow alongside the original English handbook.",
+    "mnProblem": "Alberta мэдлэгийн шалгалтад бэлтгэж буй Монгол хэлтэй суралцагчдад англи гарын авлагатай хосолсон ойлгомжтой сургалт хэрэгтэй.",
+    "solution": "Created a browser-based study experience combining Mongolian lesson summaries, an official handbook reader, practice questions and progress tracking.",
+    "mnSolution": "Монгол хичээлийн хураангуй, албан гарын авлагын уншигч, дадлагын асуулт, ахицын бүртгэлтэй веб апп бүтээсэн.",
+    "features": [
+      "54 original practice questions",
+      "50 English / Mongolian terms",
+      "Search and mistake review",
+      "Local learning progress"
+    ],
+    "mnFeatures": [
+      "54 дадлагын асуулт",
+      "Англи / Монгол 50 нэр томьёо",
+      "Хайлт, алдаатай асуулт давтах",
+      "Төхөөрөмжид ахиц хадгалах"
+    ],
+    "note": "An independent learning project, not an official exam platform or government-endorsed service. Preview is a graphic illustration.",
+    "mnNote": "Бие даасан сургалтын төсөл; албан шалгалтын систем эсвэл төрийн баталгаатай үйлчилгээ биш. Үзүүлэн нь график дүрслэл."
+  },
+  {
+    "id": "construction",
+    "category": "web",
+    "name": "MNG Construction",
+    "mnName": "MNG Construction",
+    "kind": "Construction / company website",
+    "mnKind": "Барилга / компанийн сайт",
+    "title": "A confident first impression.",
+    "mnTitle": "Итгэл төрүүлэх анхны сэтгэгдэл.",
+    "description": "A responsive company concept that makes construction services, project categories and inquiry options easy to explore.",
+    "mnDescription": "Барилгын үйлчилгээ, төслийн ангилал, хүсэлт гаргах боломжийг ойлгомжтой харуулсан компанийн жишээ сайт.",
+    "stack": [
+      "HTML / CSS",
+      "JavaScript",
+      "Project filtering"
+    ],
+    "status": "Live concept",
+    "mnStatus": "Нийтлэгдсэн концепц",
+    "url": "https://hicheel-1.vercel.app",
+    "repo": "https://github.com/togosmaabaatar/hicheel-1",
+    "problem": "A company introduction needs to organise services and project examples into a clear path for prospective customers.",
+    "mnProblem": "Компанийн танилцуулга нь үйлчилгээ, төслийн жишээг ирээдүйн харилцагчдад ойлгомжтой бүтэцтэй харуулах хэрэгтэй.",
+    "solution": "Built a visual company showcase with a mobile menu, service sections, project filtering and a downloadable inquiry brief.",
+    "mnSolution": "Гар утасны цэс, үйлчилгээний хэсэг, төсөл шүүх, хүсэлт татах боломжтой танилцуулгын сайт бүтээсэн.",
+    "features": [
+      "Responsive company presentation",
+      "Service and project sections",
+      "Project category filtering",
+      "Local inquiry download"
+    ],
+    "mnFeatures": [
+      "Responsive компанийн танилцуулга",
+      "Үйлчилгээ, төслийн хэсэг",
+      "Төслийн ангилал шүүх",
+      "Хүсэлт файл татах"
+    ],
+    "note": "Company content and project examples are illustrative. The building visual is an AI concept render.",
+    "mnNote": "Компанийн агуулга, төслүүд нь жишээ мэдээлэл. Барилгын зураг нь AI концепц рендер."
+  },
+  {
+    "id": "renovation",
+    "category": "web",
+    "name": "MNG Renovation Website",
+    "mnName": "MNG засварын веб сайт",
+    "kind": "Home services / local development",
+    "mnKind": "Засвар үйлчилгээ / локал төсөл",
+    "title": "Service information, brought together.",
+    "mnTitle": "Үйлчилгээний мэдээлэл нэг дор.",
+    "description": "A multi-page renovation website prototype covering company information, services, projects, FAQs and contact.",
+    "mnDescription": "Компанийн танилцуулга, үйлчилгээ, төсөл, FAQ, холбоо барих хэсэгтэй засвар үйлчилгээний олон хуудаст прототип.",
+    "stack": [
+      "HTML / CSS",
+      "JavaScript",
+      "Multi-page website"
+    ],
+    "status": "Local prototype",
+    "mnStatus": "Локал прототип",
+    "url": null,
+    "repo": null,
+    "problem": "A home-services website needs connected information pages and visible contact options for people exploring renovation work.",
+    "mnProblem": "Засвар үйлчилгээ хайж буй хүмүүст компанийн мэдээлэл, ажлууд, холбоо барих боломжийг нэг бүтэцтэй харуулах хэрэгтэй.",
+    "solution": "Developed a local MNG-branded multi-page website adaptation with service navigation, a project gallery, FAQs and contact-page interactions.",
+    "mnSolution": "MNG брэндтэй, үйлчилгээний навигаци, төслийн галерей, FAQ болон холбоо барих хэсэгтэй олон хуудаст локал сайт хөгжүүлсэн.",
+    "features": [
+      "Home, about and services pages",
+      "Projects and FAQ pages",
+      "Responsive navigation",
+      "Contact form prototype"
+    ],
+    "mnFeatures": [
+      "Нүүр, тухай, үйлчилгээний хуудас",
+      "Төсөл болон FAQ хуудас",
+      "Responsive навигаци",
+      "Холбоо барих маягтын прототип"
+    ],
+    "note": "Verified from local source files. This prototype has no verified public deployment; its contact form is not presented as a live delivery service. Preview is an illustration.",
+    "mnNote": "Локал эх файлуудаас баталгаажсан. Нийтлэгдсэн холбоос баталгаажаагүй; маягт нь бодит илгээх үйлчилгээ гэж танилцуулагдахгүй. Үзүүлэн нь дүрслэл."
   }
 ]
