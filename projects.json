@@ -104,19 +104,21 @@
     "solution": "Built a single-owner application with AI receipt extraction, a mandatory human review step, authenticated access and private document storage.",
     "mnSolution": "AI баримт боловсруулалт, хүний заавал хийх хяналт, нэвтрэлт болон хувийн хадгалалттай нэг эзэмшигчийн апп бүтээсэн.",
     "features": [
+      "Home-screen app installation on iPhone and Android",
       "Receipt extraction and review",
       "Duplicate detection and expense categories",
       "Monthly and category reporting",
       "CSV and Excel exports"
     ],
     "mnFeatures": [
+      "iPhone, Android-ийн нүүр дэлгэцэд суулгах апп",
       "Баримт уншуулах, хянах",
       "Давхардал шалгах, зардлын ангилал",
       "Сар, ангиллын тайлан",
       "CSV / Excel экспорт"
     ],
-    "note": "The live link opens the login page. Client financial records, credentials and original receipts are never included in this portfolio. Preview is a UI illustration.",
-    "mnNote": "Холбоос нь нэвтрэх хуудас нээнэ. Санхүүгийн мэдээлэл, нууц үг, эх баримтыг portfolio-д оруулаагүй. Үзүүлэн нь UI дүрслэл."
+    "note": "The live link opens the owner login. Use Install app to add the workspace to your phone. Client financial records, credentials and original receipts are never included in this portfolio. Preview is a UI illustration.",
+    "mnNote": "Холбоос нь эзэмшигчийн нэвтрэх хуудас нээнэ. Install app товчоор утсандаа суулгана. Санхүүгийн мэдээлэл, нууц үг, эх баримтыг portfolio-д оруулаагүй. Үзүүлэн нь UI дүрслэл."
   },
   {
     "id": "joloo",
