@@ -20,10 +20,10 @@ The production build serves `dist/`. No dependencies or install step. `scripts/g
 1. Tsagaan Garid — bilingual six-page tourism website.
 2. MNG Expense Ledger — private receipt, expense and reporting application.
 3. Canada Joloo — independent Alberta Class 7 learning app.
-4. MNG Construction — company introduction concept website.
+4. MNG Construction — live company website at https://www.mngconscorp.ca/ with project galleries, EmailJS estimates, moderated reviews and a Supabase admin dashboard.
 5. MNG Renovation Website — locally verified multi-page prototype, no verified public deployment.
 
-Project scope is verified from local source and project READMEs, with GitHub metadata for published repositories. Course organization templates are not claimed as authored work. No invented clients, testimonials, revenue improvements or employment history. Private business records and credentials are excluded. Project previews are styled illustrations, clearly labelled; camp and building artwork are AI concepts.
+Project scope is verified from local source and project READMEs, with GitHub metadata for published repositories. Course organization templates are not claimed as authored work. No invented clients, testimonials, revenue improvements or employment history. Private business records and credentials are excluded. Project previews are styled illustrations, clearly labelled; camp artwork is an AI concept; the MNG preview uses an existing company project photo.
 
 ## Identity and contact
 
