@@ -1,5 +1,46 @@
 [
   {
+    "id": "construction",
+    "category": "web",
+    "name": "MNG Construction",
+    "mnName": "MNG Construction",
+    "kind": "Construction / website & CMS",
+    "mnKind": "Барилга / вебсайт ба удирдлага",
+    "title": "Real work. A clear next step.",
+    "mnTitle": "Бодит ажлууд. Ойлгомжтой дараагийн алхам.",
+    "description": "A Calgary construction website connecting project galleries, estimate requests, customer reviews and content management.",
+    "mnDescription": "Калгаригийн барилгын компанийн ажлын зураг, үнийн санал, хэрэглэгчийн сэтгэгдэл болон удирдлагын хэсгийг нэгтгэсэн вебсайт.",
+    "stack": [
+      "HTML / CSS / JavaScript",
+      "Supabase",
+      "EmailJS"
+    ],
+    "status": "Live website",
+    "mnStatus": "Нийтлэгдсэн сайт",
+    "url": "https://www.mngconscorp.ca/",
+    "repo": null,
+    "problem": "Homeowners need to see completed work and request an estimate, while the owner needs a simple way to update projects and manage feedback.",
+    "mnProblem": "Үйлчлүүлэгчид хийсэн ажлыг үзэж, үнийн санал авах; эзэмшигч нь ажлуудаа шинэчилж, сэтгэгдэл удирдах хялбар хэрэгсэл шаардлагатай.",
+    "solution": "Built a responsive company website with photo galleries, a guided estimate popup, Messenger contact and a Supabase-backed admin dashboard for projects and reviews.",
+    "mnSolution": "Зургийн цомог, алхамчилсан үнийн саналын popup, Messenger холбоос, ажил болон сэтгэгдэл удирдах Supabase dashboard бүхий responsive сайт бүтээсэн.",
+    "features": [
+      "Project galleries with before / after photos",
+      "Guided EmailJS estimate requests",
+      "Moderated customer reviews and owner replies",
+      "Mobile-friendly project and photo administration",
+      "Custom domain with HTTPS"
+    ],
+    "mnFeatures": [
+      "Өмнө / дараах зурагтай ажлын цомог",
+      "EmailJS-тэй алхамчилсан үнийн санал",
+      "Сэтгэгдэл хянах, эзэмшигчийн хариу",
+      "Гар утсанд тохирсон ажил, зураг удирдлага",
+      "HTTPS хамгаалалттай өөрийн домэйн"
+    ],
+    "note": "Public website: mngconscorp.ca. Administrative access is restricted. This preview uses a photo from the company website within an illustrated layout.",
+    "mnNote": "Нийтийн сайт: mngconscorp.ca. Удирдлагын хэсэг нэвтрэлттэй. Үзүүлэнд компанийн сайтын зургийг дүрсэлсэн бүтэц дотор ашигласан."
+  },
+  {
     "id": "camp",
     "category": "web",
     "name": "Tsagaan Garid",
@@ -115,47 +156,6 @@
     ],
     "note": "An independent learning project, not an official exam platform or government-endorsed service. Preview is a graphic illustration.",
     "mnNote": "Бие даасан сургалтын төсөл; албан шалгалтын систем эсвэл төрийн баталгаатай үйлчилгээ биш. Үзүүлэн нь график дүрслэл."
-  },
-  {
-    "id": "construction",
-    "category": "web",
-    "name": "MNG Construction",
-    "mnName": "MNG Construction",
-    "kind": "Construction / website & CMS",
-    "mnKind": "Барилга / вебсайт ба удирдлага",
-    "title": "Real work. A clear next step.",
-    "mnTitle": "Бодит ажлууд. Ойлгомжтой дараагийн алхам.",
-    "description": "A Calgary construction website connecting project galleries, estimate requests, customer reviews and content management.",
-    "mnDescription": "Калгаригийн барилгын компанийн ажлын зураг, үнийн санал, хэрэглэгчийн сэтгэгдэл болон удирдлагын хэсгийг нэгтгэсэн вебсайт.",
-    "stack": [
-      "HTML / CSS / JavaScript",
-      "Supabase",
-      "EmailJS"
-    ],
-    "status": "Live website",
-    "mnStatus": "Нийтлэгдсэн сайт",
-    "url": "https://www.mngconscorp.ca/",
-    "repo": null,
-    "problem": "Homeowners need to see completed work and request an estimate, while the owner needs a simple way to update projects and manage feedback.",
-    "mnProblem": "Үйлчлүүлэгчид хийсэн ажлыг үзэж, үнийн санал авах; эзэмшигч нь ажлуудаа шинэчилж, сэтгэгдэл удирдах хялбар хэрэгсэл шаардлагатай.",
-    "solution": "Built a responsive company website with photo galleries, a guided estimate popup, Messenger contact and a Supabase-backed admin dashboard for projects and reviews.",
-    "mnSolution": "Зургийн цомог, алхамчилсан үнийн саналын popup, Messenger холбоос, ажил болон сэтгэгдэл удирдах Supabase dashboard бүхий responsive сайт бүтээсэн.",
-    "features": [
-      "Project galleries with before / after photos",
-      "Guided EmailJS estimate requests",
-      "Moderated customer reviews and owner replies",
-      "Mobile-friendly project and photo administration",
-      "Custom domain with HTTPS"
-    ],
-    "mnFeatures": [
-      "Өмнө / дараах зурагтай ажлын цомог",
-      "EmailJS-тэй алхамчилсан үнийн санал",
-      "Сэтгэгдэл хянах, эзэмшигчийн хариу",
-      "Гар утсанд тохирсон ажил, зураг удирдлага",
-      "HTTPS хамгаалалттай өөрийн домэйн"
-    ],
-    "note": "Public website: mngconscorp.ca. Administrative access is restricted. This preview uses a photo from the company website within an illustrated layout.",
-    "mnNote": "Нийтийн сайт: mngconscorp.ca. Удирдлагын хэсэг нэвтрэлттэй. Үзүүлэнд компанийн сайтын зургийг дүрсэлсэн бүтэц дотор ашигласан."
   },
   {
     "id": "renovation",
